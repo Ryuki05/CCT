@@ -1,0 +1,20 @@
+#クラウドコンピューティングとは
+クラウドコンピューティングの基本概念
+１．サービスモデル：
+　　・IaaS(Infrastructure as a Service)
+　　　＞サーバーやストレージなどのインフラを提供
+　　　＞例：Amazon EC2、Microsoft Azure
+
+　　・PaaS(Platform as a service)
+　　　＞アプリケーション開発用のプラットフォームを提供
+　　　＞例：Google App Engine、Heroku
+
+　　・SaaS(Software as a Service)
+　　　＞アプリケーションをインターネット経由で提供
+　　　＞例：Gmail,Salesforce
+
+２．クラウドの展開モデル
+　　・パブリッククラウド：公共向けに提供される環境
+　　　＞AWS、Google Cloud
+　　・プライベートクラウド：特定の組織専用のクラウド環境
+　　・ハイブリッドクラウド：パブリックとプライベートの組み合わせ
