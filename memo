@@ -15,3 +15,24 @@ git pull //ここで変更が反映される
 ※文字コードでエラーが出た場合
 git config --global core.autocrlf true
 改行コードの違いを改善
+
+結論
+Cursorエディタ上で、cmd + shift + p を押下
+disable cursor tab と入力
+入力が完了したらEnterを押下
+before
+補完が有効のとき
+
+
+after
+disable cursor tabと入力してEnterを押下
+補完が無効になりました！
+
+
+
+ちなみに
+補完を有効にするためには、以下を実行してあげると補完が有効になります
+
+Cursorエディタ上で、cmd + shift + p を押下
+Enable cursor tab と入力
+入力が完了したらEnterを押下

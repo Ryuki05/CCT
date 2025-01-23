@@ -1,0 +1,19 @@
+#暗号化プロトコル
+無線LANの暗号化プロトコル
+１．WEP(Wired Equivalent Privacy)
+　　・初期の暗号化方式だが、脆弱性が多く、簡単に破られる
+　　・現在は非推奨
+
+２．WPA(Wi-Fi Protected Access)
+　　・WEPの改良版。暗号化方式としてTKIP(Temporal Key Integrity Protocol)を使用
+　　・現在では脆弱性が指摘されている
+
+３．WPA2
+　　・AES（Advanced Encryption Standard）を使用した強力な暗号化方式。
+　　・現在の標準だが、一部の攻撃（KRACKなど）に脆弱。
+
+４．WPA3
+　　・WPA2の改良版で、さらに安全な暗号化方式を提供。
+　　・主な特徴:
+　　　＞SAE（Simultaneous Authentication of Equals）: 安全な鍵交換方式。
+　　　＞パスワードの推測耐性が強化。
