@@ -1,0 +1,21 @@
+#インシデント対応ツール
+代表的なツール
+１．SIEM(セキュリティ情報及びイベント管理)ツール
+    ・例：Splunk,IBM,QRadar
+    ・用途：エンドポイント上の異常を検知し、迅速に対応
+
+２．EDR(エンドポイント検知及び対応)ツール
+    ・例：CrowdStrike,Carbon Black
+    ・用途：エンドポイント上の異常を検知し、迅速に対応
+
+３．パケットキャプチャツール
+    ・例：Wireshark
+    ・用途：ネットワークトラフィックの詳細な解析
+
+４．脅威インテリジェンスプラットフォーム
+    ・例：ThreatConnect
+    ・用途：外部からの脅威情報を収集し対応を強化
+
+５．自動化ツール(SOAR:Security Orchestration,Authomation,and Response)
+    ・例：Palo Alto Cortex XSOAR
+    ・用途：対応プロセスを自動化して迅速化
